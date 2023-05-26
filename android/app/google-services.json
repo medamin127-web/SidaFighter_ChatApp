@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119880726897",
+    "project_id": "sidaapp-57f86",
+    "storage_bucket": "sidaapp-57f86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119880726897:android:2012b93462b11d4e519ed0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119880726897-8iupu1f30j7dnf81iemdm0teatfdvfk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUf0AeWZo9HJhByN0tpkCZqkePFd_WGnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119880726897-8iupu1f30j7dnf81iemdm0teatfdvfk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
